@@ -14,7 +14,7 @@ Una vida offline
 > durante el Hackaton en memoria de Aaron Swartz, 2013-11-08
 
 Literalmente, tengo una computadora desde que nací. Internet no llegó
-mucho después: todavía recuerdo las direcciones de e-mail provistas
+mucho después: todavía recuerdo las direcciones de e-mail suplementadas
 por UUCP bang-paths. Difícilmente haya pasado un día en que no haya
 chequeado mi e-mail, por lo que debe ser una década.
 
@@ -42,7 +42,8 @@ gente. Supongo podrían llamarme, pero honestamente, deseo que no lo
 hagan - al menos en un principio.
 
 No me siento la clase de persona que podría sobrevivir en Walden
-Pond. Soy un comensal delicado y no un gran allegado de los animales.
+Pond. Soy un comensal delicado y de ninguna forma un gran allegado de 
+los animales.
 Por lo tanto, encerrarme en mi departamento es lo mas cercano que puedo
 conseguir. Por supuesto que estarán los empleados de las tiendas y la
 gente de la calle, pero estaré mayormente solo.
@@ -65,8 +66,8 @@ ustedes, humanos.
 mas urgente parece ser cuando mis servidores se caen. Lo cual apesta,
 pero necesito poder tomar distancia de eso. Si tienes cosas alojadas en
 una de mis máquinas, ponte en contacto conmigo ahora y voy a intentar
-darte suficientes privilegios para que puedas arreglar tú mismo las
-cosas si algo se rompe. Si algo es realmente una emergencia, estoy
+darte suficientes privilegios para que puedas arreglar las cosas tú 
+mismo si algo se rompe. Si algo es realmente una emergencia, estoy
 seguro que me encontrarás.
 
 Que tengas un lindo Junio.
